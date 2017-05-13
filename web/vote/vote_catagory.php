@@ -138,7 +138,11 @@ else
       </div>
       <h3 class="topic_big_screen">ขออภัยไม่สามารถเข้าใช้งานได้</h3>
       <p class="discrip_big_screen">เปิดเข้าใช้งานเฉพาะหน้า Mobile เท่านั้น</p>
-      <a href="http://im11.ictsilpakorn.com"><div class="link_index"><button class="btn_back_index" type="button" name="button">กลับสู่หน้าเริ่มต้น</button></div></a>
+      <a href="http://im11.ictsilpakorn.com">
+        <div class="link_index">
+          <button class="btn_back_index" type="button" name="button">กลับสู่หน้าเริ่มต้น</button>
+        </div>
+      </a>
     </div>
   </div> <!-- etc_screen -->
   </body>
